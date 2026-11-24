@@ -8,11 +8,11 @@ The sentence is a real printed-label warning ("WARNING: ... has read
 none of the terms and conditions it agreed to") whose laugh lands in
 the last three words: "including this label". The label itself is one
 of the terms the human agreed to without reading — self-referential,
-one idea, one sentence, 97 characters.
+one idea, one sentence, 97 characters, inside the 1–160 gate.
 
-Revision: docstring tightened to name the self-reference choice
-("including this label", not "this one") explicitly; the entry
-sentence itself is unchanged.
+Revision 2: docstring now states the gate explicitly (97 of 160
+characters) so the size choice is on the record; the entry sentence
+itself is unchanged since the first write.
 """
 
 import os
